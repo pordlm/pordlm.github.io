@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到Pordlm的博客
 
-You can use the [editor on GitHub](https://github.com/pordlm/pordlm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我都傻了，html5模板放不进去只能用github自带的轻量模板
+就随便写写吧，这语言挺简单的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+比你优秀的人比你还努力
+                    ————鲁迅
 
 ### Markdown
 
