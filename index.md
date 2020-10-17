@@ -9,7 +9,7 @@
                     
 鲁迅：这话我没说过
 
-#### 下面是Markdown的语法，有兴趣的可以自己看看，此页保留
+### 下面是Markdown的语法，有兴趣的可以自己看看，此页保留
 
 Page 1
 
@@ -37,10 +37,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### The first day
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pordlm/pordlm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+创建了github账户，新建了c-code库和静态域名库
+创建了个人博客
 
-### Support or Contact
+### 接下来的计划
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+以后应该会写写c-code，java-code,html-code和python-code之类的，关于sd,blender之类也可能会写写使用心得
